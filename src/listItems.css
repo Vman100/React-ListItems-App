@@ -1,0 +1,19 @@
+.button {
+  border: none;
+  background-color: green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+}
+
+.button-right {
+  margin-left: 50px;
+}
+
+.button-left {
+  margin-right: 50px;
+}
+
+ul {
+  padding: 20px;
+}
